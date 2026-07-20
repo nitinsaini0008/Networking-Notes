@@ -6,7 +6,7 @@ HTTP (HyperText Transfer Protocol) and HTTPS (HyperText Transfer Protocol Secure
 
 HTTP transfers data in plain text, while HTTPS encrypts data using SSL/TLS to provide secure communication.
 
----
+--- 
 
 # What is HTTP?
 
